@@ -68,7 +68,7 @@ if (!isset($_SESSION["admin_number"])) {
         <!-- /. NAV SIDE -->
         <div id="page-wrapper">
             <div id="page-inner">
-                <div class="row">
+                < class="row">
                     <div class="col-md-12">
                         <h2>PROFILE</h2>
 
@@ -137,9 +137,9 @@ if (!isset($_SESSION["admin_number"])) {
                                         </div>
                                     </form>
                                 </div>
-                            </div>
-                        </div>
-                        <hr>
+                             </div>
+                            <?php require_once('../footer.php') ?>
+                         </div>
                     </div>
                 </div>
             </div>
@@ -179,6 +179,6 @@ if (!isset($_SESSION["admin_number"])) {
     <script>
       $.widget.bridge('uibutton', $.ui.button)
     </script>
-    <?php require_once('../footer.php') ?>
+
 </body>
 </html>

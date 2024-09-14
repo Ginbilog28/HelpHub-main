@@ -114,7 +114,6 @@ try {
                 <div class="row">
                     <div class="col-md-12">
                      <h2>Opened Tickets</h2>   
-                        <h5>Welcome Jhon Deo , Love to see you back. </h5>
                        
                     </div>
                 </div>
@@ -380,6 +379,7 @@ try {
                  <hr />
                
     </div>
+    <?php require_once('../footer.php') ?> 
              <!-- /. PAGE INNER  -->
             </div>
          <!-- /. PAGE WRAPPER  -->

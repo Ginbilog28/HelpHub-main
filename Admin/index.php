@@ -245,15 +245,15 @@ try {
                 </div> 
                 
         </div>
-    
+        <?php require_once ('../footer.php')?>
         
            </div>   
                  <!-- /. ROW  -->
                          
     </div>
              <!-- /. PAGE INNER  -->
+              
             </div>
-            
          <!-- /. PAGE WRAPPER  -->
         </div>
      <!-- /. WRAPPER  -->

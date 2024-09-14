@@ -238,7 +238,6 @@ try {
     <script src="./script.js"></script>
                     <div class="card-footer">
 			<div class="col-md-12">
-      <hr />
 				<div class="row" style=" padding-left: 15px; padding-bottom: 15px;">
           
 				
@@ -247,6 +246,7 @@ try {
 		</div> 
                     </div>
                 </div>
+                <?php require_once('../footer.php') ?> 
                  <!-- /. ROW  -->
                  
                

@@ -179,6 +179,7 @@ while ($row = $pdoResult->fetch(PDO::FETCH_ASSOC)){
 	</div>
 </div>
 </div>
+<?php require_once ('../footer.php')?>   
             </div>
                  <hr />
                

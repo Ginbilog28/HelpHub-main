@@ -572,17 +572,18 @@ $pdoExec = $pdoResult->execute();
     </div>
 </div>
 </div>
-
 <br>
 
-</div>           
+</div>        
             </div>
+            <?php require_once ('../footer.php')?>   
         </div>
 
 
 
 
                  <!-- /. ROW  -->
+                  
                
                
     </div>
@@ -592,6 +593,7 @@ $pdoExec = $pdoResult->execute();
         </div>
      <!-- /. WRAPPER  -->
     <!-- SCRIPTS -AT THE BOTOM TO REDUCE THE LOAD TIME-->
+  
     
     <script> 
     const ratingBarsContainer = document.getElementById('ratingBarsContainer');
